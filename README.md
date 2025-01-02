@@ -1,4 +1,4 @@
-# app
+# Example futtler APP
 
 A new Flutter project.
 
